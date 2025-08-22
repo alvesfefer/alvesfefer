@@ -12,7 +12,8 @@
 ## ✨ Sobre a Fefer
 
 <div align="left">
-  <img src="https://github.com/alvesfefer/img/blob/main/fefer.png" height="200px" style="border-radius: 20px; margin-right: 20px;" align="right">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
   
 - 💖 **Nome:** Fernanda / Fefer  
 - 📚 **Coisas Favoritas:** Jogos, livros, música, línguas, estudar, desenhar  
