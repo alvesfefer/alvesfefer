@@ -6,10 +6,10 @@
 </p>
 
 <div align="center">
-  <!-- Estatísticas Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesfefer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Status de Fernanda" />
-  
-  <!-- Linguagens mais usadas -->
+  <!-- Cartão de Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesfefer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Fernanda" />
+
+  <!-- Cartão de Linguagens mais usadas -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesfefer&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
