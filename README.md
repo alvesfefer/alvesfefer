@@ -6,8 +6,11 @@
 </p>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alvesfefer&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesfefer&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesfefer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Status de Fernanda" />
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesfefer&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
