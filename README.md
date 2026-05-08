@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>愛は最も歪んだ呪いである</i><br>
-  <sub>— o amor também é um código que ninguém entende completamente</sub>
+  <sub>— o amor é a maldição mais distorcida</sub>
 </p>
 
 <div align="center">
